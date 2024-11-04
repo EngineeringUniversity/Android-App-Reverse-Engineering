@@ -2,6 +2,9 @@ sch:
 - https://github.com/search?q=apk%20download&type=repositories
 - https://github.com/search?q=google+play+downloader&type=repositories
 
+# Sort: most Stars
+https://github.com/search?q=google+play+downloader&type=repositories&s=stars&o=desc
+
 # Project:
 - https://github.com/Lekensteyn/apk-downloader
 - https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
