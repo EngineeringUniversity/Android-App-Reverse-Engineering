@@ -9,3 +9,6 @@ project: matlink/gplaycli
 
 ## Comment:
 https://github.com/matlink/gplaycli/issues/295#issuecomment-2447414623
+
+## starred repositories
+https://github.com/archon810?tab=stars
