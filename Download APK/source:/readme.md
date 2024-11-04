@@ -1,4 +1,5 @@
 sch:
+- https://github.com/search?q=play+store+download&type=repositories
 - https://github.com/search?q=apk%20download&type=repositories
 - https://github.com/search?q=google+play+downloader&type=repositories
 
