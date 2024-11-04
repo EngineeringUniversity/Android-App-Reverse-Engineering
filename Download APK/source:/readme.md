@@ -7,6 +7,7 @@ sch:
 https://github.com/search?q=google+play+downloader&type=repositories&s=stars&o=desc
 
 # Project:
+- https://github.com/yeriomin/YalpStore
 - https://github.com/Lekensteyn/apk-downloader
 - https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
 - https://github.com/matlink/gplaycli
