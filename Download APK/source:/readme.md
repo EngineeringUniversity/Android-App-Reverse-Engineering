@@ -1,4 +1,6 @@
-sch: https://github.com/search?q=apk%20download&type=repositories
+sch:
+- https://github.com/search?q=apk%20download&type=repositories
+- https://github.com/search?q=google+play+downloader&type=repositories
 
 # Project:
 - https://github.com/Lekensteyn/apk-downloader
