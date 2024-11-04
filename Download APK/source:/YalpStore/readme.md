@@ -1,5 +1,4 @@
-# yeriomin/YalpStore
-Home:
+# Home:
 https://github.com/yeriomin/YalpStore
 
 # Forks:
