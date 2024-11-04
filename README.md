@@ -5,3 +5,4 @@ sch: https://www.bing.com/search?q=your+chromebook+isn%27t+compatible+with+this+
 ## Sideload
 article:
 - https://www.howtogeek.com/345616/what-to-do-if-an-app-is-incompatible-with-your-chromebook/
+- https://www.howtogeek.com/260075/how-to-sideload-an-android-app-from-an-apk-on-a-chromebook/
